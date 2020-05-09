@@ -1,3 +1,3 @@
-module abntee.com/timex
+module github.com/elvuel/timex
 
 go 1.13
